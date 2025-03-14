@@ -1,0 +1,6 @@
+[submodule "Portafolio/themes/ananke"]
+	path = Portafolio/themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "Portafolio/Servidor/themes/ananke"]
+	path = Portafolio/Servidor/themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
